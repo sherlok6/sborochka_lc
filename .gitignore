@@ -1,0 +1,8 @@
+BepnInEx/cache/
+BepnInEx/cache/LogOutput
+
+"Lethal	Company_Data"/
+MonoBleedingEdge/
+
+*.exe
+*.dll
