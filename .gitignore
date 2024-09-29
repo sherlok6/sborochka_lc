@@ -1,5 +1,6 @@
-BepnInEx/cache/
+BepnInEx/cache/*
 BepnInEx/cache/LogOutput
+BepnInEx/config/*
 
 "Lethal	Company_Data"/
 MonoBleedingEdge/
